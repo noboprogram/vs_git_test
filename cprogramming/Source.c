@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+
+int main(void)
+{
+	printf("test\n");
+	printf("Ç«Ç§Ç‡Ç±ÇÒÇ…ÇøÇÕ\n");
+	printf("í≤éqÇÕÇ«Ç§ÅH\n");
+
+	return 0;
+}
